@@ -4,4 +4,4 @@ The scope of this project was to model the volatility of DAX Performance, CAC40,
 
 The Forecasts are generated dynamically on a 5 day period and their accuracy is measures with mean squared error (MSE) and absolute mean error (MAE). It is also searched if the model with the lowest value of the Akaike criterion generates the best forecasts.
 
-![Screenshot](CleanShot 2020-09-30 at 09.47.32@2x.png.png)
+![Screenshot](histogram.png)
